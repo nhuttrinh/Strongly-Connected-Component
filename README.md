@@ -19,4 +19,4 @@ Starting from the top of stack which is 0, DFS till there is no more unvisited n
 Pop 0,1,2,3
 From 4, there is no more unvisited node, pop 4
 From 5,there is no more unvisited node, pop 5
- There are 3 strongly connected components: 0,1,2,3  4 and 5
+There are 3 strongly connected components: 0,1,2,3 ---  4 -----and 5
